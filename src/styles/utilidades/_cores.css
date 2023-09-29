@@ -1,0 +1,15 @@
+:root {
+  --cor-0: #fff;
+  /* cor do botao */
+  --cor-1: rgba(0, 0, 0, 0.1);
+   /*cor do hover  */
+  --cor-2: rgba(0,0,0,0.5);
+  /* cor Primaria */
+  --cor-p: linear-gradient(135deg, #8844ee, #b07dfb);
+  /* cor background sidenav */
+  --cor-3: #fafbfc;
+  /* cor hover sidenav  */
+  --cor-4: #b07dfb;
+  /* cor do paragrafo */ 
+  --cor-5: rgba(0,0,0, .7);
+}

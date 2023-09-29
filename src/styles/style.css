@@ -1,0 +1,33 @@
+@import ".././styles/utilidades/_fontes.css";
+@import "./utilidades/_cores.css";
+@import "./utilidades/_estrutura-grid.css";
+@import "./_header.css";
+@import "./_sidenav.css";
+@import "./_anuncios.css";
+@import "./_footer.css";
+@import "./_content.css";
+@import "./_informacoes.css";
+
+
+:is(body, p, h1, ul, li, p, blockquote) {
+  padding: 0;
+  margin: 0;
+}
+img {
+  width: 100%;
+  display: block;
+ border-radius: 5px;
+}
+
+li {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+p {
+  font-size: 1.2em;
+  line-height: 1.6;
+  letter-spacing: -0.005em;
+  color: var(--cor-5);
+}
