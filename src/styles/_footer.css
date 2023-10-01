@@ -1,0 +1,25 @@
+.footer {
+  background: var(--cor-p);
+}
+.footer p {
+  color: var(--cor-0);
+  text-align: center;
+  padding: 30px;
+}
+.footer span {
+  display: block;
+}
+.footer span a {
+  color: inherit;
+  transform: 0.2s ease-in;
+}
+.footer a:hover {
+  color: var(--cor-2);
+  font-style: italic;
+}
+
+@media (max-width: 600px) {
+  footer {
+    font-size: 0.8em;
+  }
+} 
