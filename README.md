@@ -144,7 +144,7 @@ https://github.com/emmanuelmarcosdeoliveira/Wildbeast/assets/116108389/f2b6ed36-
 Para ter Acesso ao Projeto; clique no link Abaixo:
  <br>
 
-> [WildBeast]()
+> [WildBeast](https://wildbeast-blond.vercel.app/)
 
 <br>
 <br>
