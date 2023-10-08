@@ -2,9 +2,9 @@
 <br>
 <div align="center">
 
-[Descrição](#--descrição-do-projeto-) |
-[Funcionalidades](#%EF%B8%8F-funcionalidades) |
-[Imagens](#-imagens-do-projeto-verão-web) |
+[Descrição](#-descrição-do-projeto) |
+[Características](%EF%B8%8F-características) |
+[Imagens](#-imagens-do-projeto-versão-web) |
 [Tecnologias](#tecnologias-utilizadas-) |
 [Como executar esse projeto ?](#%EF%B8%8F-como-executar-esse-projeto-) |
 [Referências](#-referências-) |
@@ -24,7 +24,7 @@
 <br>
 
 <p align='left' width="400">
-   Esse projeto faz parte do Curso de CSS Grid-Layout. da origamid Nele Desenvolvemos o Site <strong>WildBeast</strong>, onde foi aplicado técnicas de CSS Grid-layout, trabalhando com todas as propreidades do <strong>Grid-layout</strong>:
+   Esse projeto faz parte do Curso de CSS Grid-Layout da Origamid. Nele Desenvolvemos o Site <strong>WildBeast</strong>, onde foi aplicado propriedades de <strong>Grid-layout</strong>:
    </p>
 <br>
 <br>
@@ -32,18 +32,24 @@
 <div align='center'>
 <h2> 📽️Video de Demostração do Projeto.</h2>
 
+https://github.com/emmanuelmarcosdeoliveira/Wildbeast/assets/116108389/f2b6ed36-b4e6-41d3-be5f-38375680b0be
+
+
 </div>
 
 <br>
 <br>
 
 <div align='center'>
-    <h2>⚙️ Funcionalidades</h2>
+    <h2>⚙️ Características</h2>
 </div>
 
 <p align ="left">Nesse Projeto foi abordado as seguintes prorpiedades de <strong>grid-container:</strong></p>
    <br>
    <br>
+   
+   <div align="left">
+    
 🟨 display-grid<br>
 🟨 grid-template-columns<br>
 🟨 grid-template Rows<br>
@@ -58,16 +64,22 @@
 🟨 align-content<br>
 🟨 justify-items<br>
 🟨 Align-itens<br>
+
+   </div>
+
+ 
  <br>
  <br>
 <p align ="left">Também vimos as propriedades de <strong>grid-layout-item:</strong></p>
    <br>
    <br>
+   <div align="left">
 🟥 Grid column<br>
 🟥 Grid Rows<br>
 🟥 Grid Area<br>
 🟥 Grid Self<br>
 🟥 Align Self<br>
+    </div>
  <br>
  <br>
  <div align="center">
@@ -77,7 +89,7 @@
 <br>
 <br>
 
-> :bulb: **Dica:** Algumas imagens da versão Desktop.
+> :bulb: **Veja:** Algumas imagens da versão Desktop.
 
 <br>
 <br>
@@ -92,7 +104,7 @@
 <br>
 <br>
 
- > :bulb: **Dica:** Algumas imagens da versão Mobile.
+ > :bulb: **Veja:** Algumas imagens da versão Mobile.
 
 <br>
 <br>
